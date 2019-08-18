@@ -1,11 +1,13 @@
 
+### the site is published at https://cardozo-gv.github.io/todo-list-react/
+
 
 
 Tutorial : React Course - Todo List Project <br/>
 Youtube Channel: Coding Addict <br/>
 Url: https://www.youtube.com/watch?v=8QBYrKhqgFI <br/>
 
-##Tools
+## Tools
 bootstrap : npm install bootstrap uuid --save
 <br/>
 font awesome: https://fontawesome.com/
